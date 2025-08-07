@@ -189,6 +189,17 @@
             padding-top: 80px;
         }
 
+/* Shorter Hero Section for non-index pages */
+.hero-section {
+    background: linear-gradient(rgba(0, 51, 102, 0.8), rgba(0, 102, 204, 0.8)), url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+}
+
         .hero-content {
             max-width: 800px;
             margin: 0 auto;
